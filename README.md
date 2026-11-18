@@ -1,4 +1,4 @@
-# Stock Watch — GitHub Pages restock tracker
+# This is vibe coded  don't look
 
 A tiny static site that tells you whether a product on `gurapan.jp` is **in
 stock** or **sold out**, with a live timer showing how many **days it has been
