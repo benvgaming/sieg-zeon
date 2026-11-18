@@ -1,0 +1,27 @@
+{
+  "product": {
+    "name": "ST03【Zeon's Rush】開封済みスタートデッキ【ST03】",
+    "url": "https://gurapan.jp/products/detail/214418",
+    "image": "https://gurapan.jp/html/upload/save_image/./GD/ST03/small/mukimiST03_small.jpg",
+    "price": "￥800 (税込)",
+    "site": "gurapan.jp",
+    "id": "214418"
+  },
+  "tracking": {
+    "started_at": "2026-11-18T13:59:23Z",
+    "timezone": "Asia/Tokyo"
+  },
+  "current": {
+    "status": "sold_out",
+    "checked_at": "2026-11-18T13:59:29Z",
+    "checked_at_local": "2026-11-18 22:59 JST"
+  },
+  "last_available_at": null,
+  "last_change_at": "2026-11-18T13:59:23Z",
+  "history": [
+    {
+      "at": "2026-11-18T13:59:23Z",
+      "status": "sold_out"
+    }
+  ]
+}
