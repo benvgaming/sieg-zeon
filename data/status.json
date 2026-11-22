@@ -13,8 +13,8 @@
   },
   "current": {
     "status": "sold_out",
-    "checked_at": "2026-11-21T20:43:13Z",
-    "checked_at_local": "2026-11-22 05:43 JST"
+    "checked_at": "2026-11-22T00:49:45Z",
+    "checked_at_local": "2026-11-22 09:49 JST"
   },
   "last_available_at": null,
   "last_change_at": "2026-11-18T13:59:23Z",
@@ -61,6 +61,10 @@
     },
     {
       "at": "2026-11-21T20:43:13Z",
+      "status": "sold_out"
+    },
+    {
+      "at": "2026-11-22T00:49:45Z",
       "status": "sold_out"
     }
   ]
